@@ -1,0 +1,92 @@
+{
+    "iOS": {
+		"iPhone": {
+			"visits": 5102,
+			"purchases": 43
+		},
+		"iPad": {
+			"visits": 6471,
+			"purchases": 51
+		},
+		"iPod": {
+			"visits": 2198,
+			"purchases": 15
+		}
+	},
+	"Android": {
+		"HTC": {
+			"One": {
+				"visits": 3218,
+				"purchases": 68
+			},
+			"Butterfly": {
+				"visits": 2398,
+				"purchases": 22
+			}
+		},
+		"Samsung": {
+			"SII": {
+				"visits": 2094,
+				"purchases": 27
+			},
+			"SIII": {
+				"visits": 5753,
+				"purchases": 79
+			},
+			"SIV": {
+				"visits": 4421,
+				"purchases": 50
+			}
+		},
+		"Huawei": {
+			"visits": 4212,
+			"purchases": 21
+		},
+		"Unknown": {
+			"visits": 3528,
+			"purchases": 38
+		}
+	},
+	"Symbian": {
+		"Nokia": {
+			"Series 3": {
+				"visits": 3873,
+				"purchases": 41
+			},
+			"Series 4": {
+				"visits": 4211,
+				"purchases": 49
+			}
+		},
+		"Unknown": {
+			"visits": 2704,
+			"purchases": 24
+		}
+	},
+	"Windows": {
+		"HTC": {
+			"Unknown": {
+				"visits": 587,
+				"purchases": 5
+			}
+		},
+		"Nokia": {
+			"Lumia 520": {
+				"visits": 1011,
+				"purchases": 12
+			},
+			"Lumia 610": {
+				"visits": 940,
+				"purchases": 8
+			},
+			"Lumia 900": {
+				"visits": 1248,
+				"purchases": 13
+			}
+		}
+	},
+	"Unknown": {
+		"visits": 3517,
+		"purchases": 26
+	}
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Conversion</title>
+	<script src="jquery.js"></script>
+	<script src="index.js"></script>
+</head>
+<body>
+
+<select name="os"></select> <!-- including all, 
+	When os is all then brand select element should display all the brands in the dataset.
+	Otherwise brand select element should only contain the brands for the selection os. -->
+<select name="brand"></select> <!-- including all,
+	When os is all and brand is all, then conversion must be calculated for the whole dataset.
+	When os is all and brand is selected, then conversion must be calculated for that brand (note some brands are repeated under different OSes.).
+	When os is selected and brand is selected, then conversion must be calculated for the selected brand under the selected os.
+-->
+
+<!-- Changed last "data-value" to Conversion instead of Visits -->
+<div>Visits: <span data-value="visits"></span></div>
+<div>Purchases: <span data-value="purchases"></span></div>
+<div>Conversion: <span data-value="conversion"></span></div>
+
+</body>
+</html>
