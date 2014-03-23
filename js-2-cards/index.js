@@ -37,7 +37,7 @@ $(document).ready(function() {
 	/* BONUS TOUCH DEVICES */
 	var xStart = 0,//Touch start / mouse down start X
 		MIN_SWIPE = 75;//minimum swipe/drag
-	var onlyTouchDevices = false; //change to False for Mouse events
+	var onlyTouchDevices = true; //change to False for Mouse events
 	
 	cardsContainer.addEventListener('touchstart', dragStartHandler, false);
 	if(onlyTouchDevices === false) cardsContainer.addEventListener('mousedown', dragStartHandler, false);
