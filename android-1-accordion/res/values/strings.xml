@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MAccordion</string>
+    <string name="txt_title">Anger comes from our irrational perceptions of reality. There are four types of internal reasoning that contribute to anger:</string>
+    <string name="open_item">Open item</string>
+	<color name="color_black">#000000</color>
+    <color name="color_white">#ffffff</color>
+	<color name="color_blue">#105fc3</color>
+    <color name="color_gray">#f0ecf1</color>
+	<color name="color_darkgray">#d5d1d5</color>
+			
+</resources>
